@@ -35,10 +35,10 @@ A simple and user-friendly **Food Order System** with a graphical interface buil
 ## Screenshots
 
 ### Main Interface
-![Main Interface](path/to/screenshot1.png)
+![Main Interface](screenshot/1.png)
 
 ### Order Summary Table
-![Order Summary](path/to/screenshot2.png)
+![Order Summary](screenshot/1.png)
 
 ---
 
